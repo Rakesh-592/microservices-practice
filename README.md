@@ -151,27 +151,10 @@ RESTful APIs
 
 Inter-Service Communication
 
-✅ Future Enhancements
-Docker & Docker Compose
-
-Spring Cloud Config Server
-
-Circuit Breaker (Resilience4j)
-
-Distributed Tracing (Zipkin)
-
-Role Based Authorization (RBAC)
 
 👨‍💻 Author
 Rakesh
-Spring Boot & Microservices Developer
 
-✅ This project is intended for hands-on learning and real-world microservices practice.
-
-yaml
-Copy code
-
----
 
 ### ✅ After Creating This File, Push It to GitHub
 
